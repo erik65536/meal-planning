@@ -1,10 +1,9 @@
 ---
 title: Sheet Pan Dinner
 tags:
-  - easy-cleanup
+  - healthy
+  - easy
   - roasted
-  - meal-prep
-  - hands-off
 effort: 45 minutes
 ---
 
@@ -55,8 +54,8 @@ The ultimate low-effort meal. Roast protein and veggies together on one tray for
 
 1.  **Preheat**: Oven to 400°F (200°C) or 425°F (220°C) for extra crisping.
 2.  **Timing Strategy**:
-    -   *Hard Veggies First*: If using potatoes/carrots/squash, toss with oil/seasoning and roast for 15-20 minutes first.
-    -   *Add Protein & Soft Veggies*: Remove pan, push hard veggies to side. Add protein and softer veggies (broccoli, peppers, tomatoes).
+    - _Hard Veggies First_: If using potatoes/carrots/squash, toss with oil/seasoning and roast for 15-20 minutes first.
+    - _Add Protein & Soft Veggies_: Remove pan, push hard veggies to side. Add protein and softer veggies (broccoli, peppers, tomatoes).
 3.  **Roast**: Return to oven for 10-15 minutes until protein is cooked through (Salmon: ~12 mins, Chicken chunks: ~15 mins, Pork: ~15 mins).
 4.  **Finish**: Toss with fresh herbs or a squeeze of lemon juice.
 
