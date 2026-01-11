@@ -19,22 +19,30 @@ A velvety, spicy soup that uses pantry staples to create a flavor explosion.
 - 1 tbsp avocado oil
 - 1 onion, diced
 - 1 bell pepper, diced (red or green)
-- 1 jalapeño, seeded and minced (optional)
+- [Optional] 2 celery stalks, diced
+- [Optional] 1-2 carrots, diced
+- [Optional] 1 jalapeño, seeded and minced
 - 3 cloves garlic, minced
 
 ### Beans & Broth
 
 - 3 x 15 oz cans black beans
-    - *Method*: Drain and rinse 2 cans. Keep the liquid in the 3rd can (starch thickens soup).
+  - _Method_: Drain and rinse 2 cans. Keep the liquid in the 3rd can (starch thickens soup).
 - 2 cups vegetable broth
 - [Optional] 14 oz can roasted tomatoes
 
 ### Spices
 
 - 2 tsp cumin
+- [Optional] 1 tsp coriander
 - 1 tsp chili powder
 - 1 tsp smoked paprika
 - 1 tsp oregano
+
+### Finish
+
+- 1-2 tbsp lime juice (or more to taste)
+- Salt & black pepper to taste
 
 ### Novel Variations (Choose One path)
 
@@ -61,17 +69,18 @@ A velvety, spicy soup that uses pantry staples to create a flavor explosion.
 ## Cooking Instructions
 
 1.  **Sauté**:
-    -   Heat oil in a pot.
-    -   Add onion, peppers, and jalapeño. Sauté 5-8 minutes until soft.
-    -   Add garlic and spices. Cook 1 minute.
+    - Heat oil in a pot.
+    - Add onion, bell pepper, celery/carrots (if using), and jalapeño. Sauté 5-8 minutes until soft.
+    - Add garlic and spices. Cook 1 minute.
 2.  **Simmer**:
-    -   Add beans (rinsed + unrinsed), broth, and tomatoes/pumpkin (if using).
-    -   Bring to boil, reduce to simmer. Cook 15 minutes.
+    - Add beans (rinsed + unrinsed), broth, and tomatoes/pumpkin (if using).
+    - Bring to boil, reduce to simmer. Cook 15 minutes.
 3.  **Blend**:
-    -   Use an immersion blender to puree about half the soup (or transfer 2 cups to a blender). You want a mix of creamy liquid and whole beans.
+    - Use an immersion blender to puree about half the soup (or transfer 2 cups to a blender). You want a mix of creamy liquid and whole beans.
 4.  **Finish**:
-    -   Stir in orange juice/vinegar (if doing Cuban style) or just a squeeze of lime.
-    -   Serve hot with toppings.
+    - Stir in orange juice/vinegar (if doing Cuban style).
+    - Stir in lime juice and season with salt/pepper.
+    - Serve hot with toppings.
 
 ## Notes
 
