@@ -32,9 +32,7 @@
 ### For Cooking & Serving
 
 - 3-4 tbsp neutral oil (for pan-frying)
-- Sweet chili sauce
 - Soy sauce or ponzu
-- Sriracha mayo
 
 **Prep Notes:**
 

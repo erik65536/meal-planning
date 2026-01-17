@@ -21,7 +21,6 @@
 - 2 cloves garlic, minced
 - 1 tbsp butter
 - 0.25 cup white wine
-- 2 tbsp heavy cream
 - Pinch of nutmeg (about 1/8 tsp)
 - 0.25 tsp salt
 - 0.25 tsp black pepper

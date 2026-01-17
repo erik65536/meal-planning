@@ -4,7 +4,7 @@
 
 ### Chicken & Marinade
 
-- 1.5 lbs chicken breast (about 2-3 large breasts)
+- 1.5 lbs chicken breast (about 2 large breasts)
 - 2 tbsp lemongrass powder
 - 2 tbsp fish sauce
 - 1 tbsp brown sugar
