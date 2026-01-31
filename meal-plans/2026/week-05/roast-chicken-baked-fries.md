@@ -15,8 +15,6 @@
 - 0.5 tsp dried thyme
 - 0.5 tsp dried oregano
 - 0.5 tsp cumin
-- 0.25 tsp cayenne pepper (optional)
-- 0.5 tsp salt
 - 0.5 tsp black pepper
 
 ### Baked Fries
@@ -31,8 +29,6 @@
 - 0.5 tsp onion powder
 - 0.5 tsp dried rosemary, crushed
 - 0.5 tsp dried oregano
-- 0.25 tsp cayenne pepper (optional)
-- 0.5 tsp salt
 - 0.5 tsp black pepper
 
 ### For Serving

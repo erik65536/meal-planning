@@ -10,7 +10,6 @@
 - 0.5 tsp garlic powder
 - 0.5 tsp onion powder
 - 0.5 tsp dried thyme
-- 0.25 tsp salt
 - 0.25 tsp black pepper
 
 ### Braised Cabbage & Apples
@@ -24,9 +23,8 @@
 - 0.5 cup low-sodium chicken broth
 - 1 tsp caraway seeds
 - 0.5 tsp dried thyme
-- 0.25 tsp salt
 - 0.25 tsp black pepper
-- 1 tsp Dijon mustard (optional)
+- 1 tsp Dijon mustard
 
 **Prep Notes:**
 
@@ -39,7 +37,7 @@
 
 1. **Season Pork Chops**:
    - Pat pork chops completely dry with paper towels
-   - Mix smoked paprika, garlic powder, onion powder, thyme, salt, and pepper in a small bowl
+   - Mix smoked paprika, garlic powder, onion powder, thyme, and pepper in a small bowl
    - Season both sides of pork chops generously
 
 2. **Sear Pork Chops**:

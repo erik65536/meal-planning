@@ -4,7 +4,7 @@
 
 ### Salmon
 
-- 2 breaded salmon fillets (from freezer)
+- 2 breaded salmon fillets
 - Cooking spray or parchment paper
 
 ### Za'atar Roasted Vegetables
@@ -14,19 +14,11 @@
 - 2 tbsp olive oil, divided
 - 1.5 tbsp za'atar seasoning
 - 0.5 tsp garlic powder
-- 0.25 tsp salt
 - 0.25 tsp black pepper
 - 1 tbsp lemon juice
-- 1 tsp sumac (optional, for extra tanginess)
-
-### For Serving
-
-- Lemon wedges
-- Fresh parsley, chopped
 
 **Prep Notes:**
 
-- Za'atar is a Middle Eastern blend of thyme, sumac, sesame seeds, and oregano that pairs beautifully with roasted vegetables
 - Sweet potatoes need more time than broccoli, so they go in the oven first
 - Follow package instructions for the breaded salmon fillets
 
@@ -54,9 +46,7 @@
 5. **Finish & Serve**:
    - Remove everything from oven
    - Drizzle lemon juice over vegetables
-   - Sprinkle extra sumac over vegetables if using
    - Plate salmon alongside za'atar roasted vegetables
-   - Garnish with fresh parsley and lemon wedges
 
 ## Notes
 

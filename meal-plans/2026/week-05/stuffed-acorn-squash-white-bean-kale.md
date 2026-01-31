@@ -22,7 +22,6 @@
 - 0.5 tsp dried thyme
 - 0.25 tsp cinnamon
 - Pinch of nutmeg
-- 0.25 tsp salt
 - 0.25 tsp black pepper
 - 1 tbsp apple cider vinegar
 - 0.25 cup low-sodium vegetable broth

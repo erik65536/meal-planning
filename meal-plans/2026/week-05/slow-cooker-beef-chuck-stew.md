@@ -15,7 +15,6 @@
 - 1 lb Yukon Gold or red potatoes, cut into 1.5-inch chunks
 - 4 large carrots, peeled and cut into 1.5-inch pieces
 - 3 celery stalks, cut into 1-inch pieces
-- 2 medium parsnips, peeled and cut into 1.5-inch pieces
 - 1 large yellow onion, diced
 - 4 cloves garlic, smashed
 
@@ -29,15 +28,12 @@
 - 1 bay leaf
 - 0.5 tsp smoked paprika
 
-### Optional Add-Ins
+### Add-Ins
 
-- 8 oz mushrooms, quartered (add at start)
-- 1 cup butternut squash, cubed (add at start)
+- 8 oz mushrooms
 - 1 cup frozen peas (add in last 15 minutes)
-- 1 cup pearl onions, peeled (add at start)
 - 0.5 cup red wine (replace 0.5 cup broth)
 - 1 tbsp balsamic vinegar (stir in at end for depth)
-- 2 sprigs fresh thyme (replace dried)
 
 **Prep Notes:**
 
