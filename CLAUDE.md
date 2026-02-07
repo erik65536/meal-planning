@@ -48,6 +48,25 @@ meal-planning/
 - Detail-oriented approach; cooking is a hobby
 - Enjoys trying new things and experimenting with recipes
 
+**Fats & Oils:**
+
+- **Avoid butter** - high in calories and saturated fat
+- **Avoid mayonnaise and heavy cream** - high in calories and saturated fat
+- **Prefer avocado oil** for high-heat cooking (searing, roasting above 400°F)
+- **Prefer olive oil** for medium-heat cooking and finishing
+- Use oils for cooking; achieve flavor through spices, herbs, aromatics, acids, and other ingredients instead of butter or cream-based sauces
+- **Lighter alternatives for creaminess**: Use Greek yogurt, low fat milk, light coconut milk, or cornstarch slurries instead of mayo, heavy cream, or cream-based sauces
+
+**Seasoning Philosophy:**
+
+- **IMPORTANT**: Meals should be bold, flavorful, and well-seasoned - NOT bland or plain
+- Lower interoception means more seasoning is needed to taste flavors properly
+- Use generous amounts of spices, fresh herbs, aromatics (garlic, ginger, onions), and acids (citrus, vinegar)
+- Layer flavors with multiple spices and seasoning techniques (dry rubs, marinades, finishing garnishes)
+- Vegetables should be well-seasoned, not just salt and pepper - add spices, herbs, garlic powder, smoked paprika, etc.
+- Even simple meals should have complexity through spice blends and varied flavor profiles
+- When in doubt, add more seasoning rather than less
+
 **Formatting Preferences:**
 
 - Use decimal notation for measurements: `0.5 tbsp` not `1/2 tbsp`, `0.75 cup` not `3/4 cup`
