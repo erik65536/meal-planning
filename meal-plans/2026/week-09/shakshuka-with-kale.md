@@ -22,7 +22,7 @@ Eggs poached in a deeply spiced, tomato-based sauce with wilted kale. Bold North
 
 ### Greens & Eggs
 
-- 3 cups kale, stems removed and roughly chopped
+- 3 cups green cabbage, thinly sliced or shredded
 - 4 large eggs
 
 ### For Serving
@@ -36,8 +36,7 @@ Eggs poached in a deeply spiced, tomato-based sauce with wilted kale. Bold North
 
 - Tomato paste is key — bloom it with the spices for 1-2 minutes before adding tomatoes. This deepens the flavor dramatically.
 - Use a wide skillet with a lid — you need surface area to space the eggs.
-- Remove kale stems completely; they stay tough even when cooked.
-- Kale holds up better than spinach in this application and adds great texture.
+- [Prep tips about greens can be adjusted as needed for cabbage]
 
 ## Cooking Instructions
 
@@ -50,10 +49,10 @@ Eggs poached in a deeply spiced, tomato-based sauce with wilted kale. Bold North
    - Add tomato paste to the pan. Stir and cook 2 minutes, allowing it to darken slightly.
    - Add cumin, smoked paprika, coriander, chili powder, cayenne, and oregano. Stir everything together and cook 1 more minute until the spices are fragrant.
 
-3. **Add Tomatoes & Kale**:
+3. **Add Tomatoes & Greens**:
    - Pour in diced tomatoes and water (or broth). Stir well to combine.
-   - Add chopped kale and stir to incorporate into the sauce.
-   - Bring to a gentle simmer and cook 8-10 minutes, stirring occasionally, until kale is fully wilted and sauce has thickened slightly.
+   - Add sliced cabbage, stirring to incorporate into the sauce.
+   - Bring to a gentle simmer and cook 8-10 minutes, stirring occasionally, until the cabbage is softened and sauce has thickened slightly.
    - Taste and adjust salt, pepper, and cayenne.
 
 4. **Poach the Eggs**:
