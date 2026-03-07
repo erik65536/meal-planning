@@ -41,6 +41,7 @@ meal-planning/
 
 **Cooking Style:**
 
+- **Cooking for one** - all meal plans are single-serving portions. When an ingredient comes in a larger quantity than needed for one meal (e.g., a whole head of cabbage, a full can of beans), plan other meals that week to use up the remainder. Zero waste: if you buy it, it gets used across the week's meals.
 - Located in Minnesota (consider ingredient availability)
 - Lower interoception means preference for more seasoning and varied spice combinations
 - Wide variety of spices on hand; not afraid to buy more
